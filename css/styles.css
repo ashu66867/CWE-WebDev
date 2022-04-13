@@ -25,10 +25,5 @@ body{
 
 #RBA{
   position: relative;
-  left: 100px;
-}
-
-#Spline{
-  position: relative;
-  left: 350px;
+  left: 50px;
 }

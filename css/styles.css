@@ -21,3 +21,13 @@ body{
 #SiteHeader{
   background-color: #7EC8E3;
 }
+
+#RBA{
+  position: relative;
+  left: 100px;
+}
+
+#Spline{
+  position: relative;
+  center;
+}
